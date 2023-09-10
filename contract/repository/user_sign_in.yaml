@@ -1,0 +1,7 @@
+input:
+  field:
+    - email: String
+    - password: String
+output:
+  field:
+    - user_information: UserInformation

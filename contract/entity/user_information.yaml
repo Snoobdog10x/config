@@ -1,0 +1,7 @@
+type: software
+field:
+  - motor_switch: MotorSwitch
+  - user_information: Map<String,UserInformation>
+  - name: String
+  - avatar: String
+  - data: Map<String,String>

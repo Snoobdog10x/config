@@ -1,0 +1,8 @@
+type: hardware
+field:
+  - is_on: bool
+  - action_state: String
+enum:
+  - action_state:
+      - user_request_action
+      - hardware_confirm
