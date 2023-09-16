@@ -1,0 +1,7 @@
+input:
+  field:
+    - avatar: String
+    - name: String
+output:
+  field:
+    - user_information: UserInformation

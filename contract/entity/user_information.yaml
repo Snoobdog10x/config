@@ -2,3 +2,4 @@ type: software
 field:
   - name: String
   - avatar: String
+  - email: String

@@ -1,7 +1,6 @@
 input:
   field:
-    - email: String
-    - password: String
+    - user_id: String
 output:
   field:
     - user_information: UserInformation
